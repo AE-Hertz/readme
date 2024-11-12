@@ -20,5 +20,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/playinhertz) 
+  ![wise-quick-pay-qr-code](https://github.com/user-attachments/assets/41329df6-d0b1-4084-9c94-99d45e77edc5)
+
 
   

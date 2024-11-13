@@ -30,4 +30,8 @@
 [![An image of @aehertz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aehertz)](https://holopin.io/@aehertz)
 
 
-  
+![data-analytics-essentials](https://github.com/user-attachments/assets/6bf1e6e5-1658-4567-b18e-cc49e71b8684)
+![aws-academy-graduate-aws-academy-cloud-foundations(3)](https://github.com/user-attachments/assets/e6c072b5-8f72-48b4-b3cd-bd16936d3170)
+![Postman - Postman API Fundamentals Student Expert - 2024-10-24(1)](https://github.com/user-attachments/assets/230b9d6f-c4b2-4418-8d44-1aed0c8b00a8)
+
+

@@ -33,5 +33,8 @@
 ![data-analytics-essentials](https://github.com/user-attachments/assets/6bf1e6e5-1658-4567-b18e-cc49e71b8684)
 ![aws-academy-graduate-aws-academy-cloud-foundations(3)](https://github.com/user-attachments/assets/e6c072b5-8f72-48b4-b3cd-bd16936d3170)
 ![Postman - Postman API Fundamentals Student Expert - 2024-10-24(1)](https://github.com/user-attachments/assets/230b9d6f-c4b2-4418-8d44-1aed0c8b00a8)
+![Git Explorer](https://github.com/user-attachments/assets/f37313a5-e52e-4d4b-9580-a2a05741e17f)
+![Pull Expert](https://github.com/user-attachments/assets/63f71f16-ff2b-43f8-b08a-e73f6a1bb25f)
+![Code Luminary](https://github.com/user-attachments/assets/0af3fc66-cea3-464d-85ce-41b159729bf9)
 
 

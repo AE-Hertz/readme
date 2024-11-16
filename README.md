@@ -1,9 +1,21 @@
 # 💫 About Me:
+ <img align="right" src="https://github.com/user-attachments/assets/d123f961-bcea-40e7-8d61-251fa3584638">
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<div align="right">
- <img src="https://github.com/user-attachments/assets/d123f961-bcea-40e7-8d61-251fa3584638">
-</div>
+
+ 🔭 I’m currently working on
+ 
+ 👯 I’m looking to collaborate on
+ 
+ 🤝 I’m looking for help with
+ 
+ 🌱 I’m currently learning
+ 
+ 💬 Ask me about
+ 
+ ⚡ Fun fact
+
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTF7tMD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/playinhertz) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abhi_Hertz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@playinhertz) 

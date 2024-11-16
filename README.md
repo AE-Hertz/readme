@@ -89,13 +89,17 @@
 
 # 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1"   height="150" alt="stats graph"  />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AE-Hertz&theme=vision-friendly-dark&hide_border=true" height="195" alt="GitHub Streak" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="language-stats"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AE-Hertz&theme=vision-friendly-dark&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="language-stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="480" alt="activity-graph" />
+
+<div align="center">
 </div>
+
+
 
 ###
 
@@ -105,10 +109,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AE-Hertz&icon=10&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/playinhertz) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/playinhertz) 
 
-  ![wise-quick-pay-qr-code](https://github.com/user-attachments/assets/41329df6-d0b1-4084-9c94-99d45e77edc5)
+![wise-quick-pay-qr-code](https://github.com/user-attachments/assets/41329df6-d0b1-4084-9c94-99d45e77edc5)
 
 
 

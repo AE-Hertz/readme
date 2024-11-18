@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
  <img align="right" src="https://github.com/user-attachments/assets/d123f961-bcea-40e7-8d61-251fa3584638">
 
 
@@ -27,7 +27,7 @@
 </p>
  
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ### 🖌️ **Frontend Development**
@@ -87,7 +87,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="160" alt="stats graph" />
@@ -95,36 +95,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="language-stats" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="480" alt="activity-graph" />
-
-<div align="center">
 </div>
 
 
+<br>
 
-###
-
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/playinhertz)
-[![wise-quick-pay-qr-code](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)](https://github.com/user-attachments/assets/41329df6-d0b1-4084-9c94-99d45e77edc5)
-
-
-
-
-
+## 🌎 Open-Source Contributions
 [![An image of @aehertz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aehertz)](https://holopin.io/@aehertz)
 
 <details open>
-  <summary style="font-size: 1.25em; font-weight: bold; margin-bottom: 10px;">🎖️ Badges and Certifications</summary>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <summary><h2>🎖️ Badges and Certifications</h2></summary>
+  <div align="center">
 
    <img src="https://github.com/user-attachments/assets/6bf1e6e5-1658-4567-b18e-cc49e71b8684" alt="data-analytics-essentials" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/e6c072b5-8f72-48b4-b3cd-bd16936d3170" alt="aws-academy-graduate-aws-academy-cloud-foundations" style="height: 150px; width: auto;">
-    <img src="https://github.com/user-attachments/assets/230b9d6f-c4b2-4418-8d44-1aed0c8b00a8" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-24" style="height: 150px; width: auto;">
+    <br>
     <img src="https://github.com/user-attachments/assets/f37313a5-e52e-4d4b-9580-a2a05741e17f" alt="Git Explorer" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/63f71f16-ff2b-43f8-b08a-e73f6a1bb25f" alt="Pull Expert" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/0af3fc66-cea3-464d-85ce-41b159729bf9" alt="Code Luminary" style="height: 150px; width: auto;">
+    <br>
     <img src="https://github.com/user-attachments/assets/3c369dd2-a9c1-45b1-99cd-feee426954ff" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-24" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/bce108b5-b811-4552-bbb4-a198885fa8a2" alt="web3hack" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/826200c1-4d7b-4a3a-9cc0-da4b87b73200" alt="334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf" style="height: 150px; width: auto;">
@@ -134,11 +123,14 @@
     <img src="https://github.com/user-attachments/assets/6d942453-3e52-4fae-bd1c-c76e596267e0" alt="334811008-2274e5cd-fb05-43fc-a939-3e18ca881c1b" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/af88661c-f148-4456-bf43-4cb46b7914ca" alt="334811676-3ca70186-0e49-442b-85b2-061d819cfd8e" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/b164a1a8-0042-436c-a907-0fd41c099acd" alt="334812399-8a0a8b82-c425-4627-ba02-75beb47198d6" style="height: 150px; width: auto;">
-
   </div>
 </details>
 
 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/playinhertz)
+[![wise-quick-pay-qr-code](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)](https://github.com/user-attachments/assets/41329df6-d0b1-4084-9c94-99d45e77edc5)
 
+---
 
 [![](https://visitcount.itsvg.in/api?id=AE-Hertz&icon=10&color=13)](https://visitcount.itsvg.in)

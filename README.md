@@ -99,11 +99,8 @@ Professional gamer, and have mastered the art of multitasking between coding and
   <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="160" alt="stats graph" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AE-Hertz&theme=vision-friendly-dark&hide_border=true" height="160" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="language-stats" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="480" alt="activity-graph" />
 </div>
-
-
 <br>
 
 ## 🌎 Open-Source Contributions
@@ -130,8 +127,14 @@ Professional gamer, and have mastered the art of multitasking between coding and
     <img src="https://github.com/user-attachments/assets/af88661c-f148-4456-bf43-4cb46b7914ca" alt="334811676-3ca70186-0e49-442b-85b2-061d819cfd8e" style="height: 150px; width: auto;">
     <img src="https://github.com/user-attachments/assets/b164a1a8-0042-436c-a907-0fd41c099acd" alt="334812399-8a0a8b82-c425-4627-ba02-75beb47198d6" style="height: 150px; width: auto;">
   </div>
+
+<h4 align="center">
+Rank 32/60K in GSSoC-ext 2024 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">🔗 Verify</a>
+</h4>
+
 </details>
 
+<br>
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/playinhertz)

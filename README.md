@@ -1,21 +1,25 @@
 ## 💫 About Me:
  <img align="right" src="https://github.com/user-attachments/assets/d123f961-bcea-40e7-8d61-251fa3584638">
 
+### 🚀 **On My Radar**  
+Creating something that will change the game.
 
- 🔭 I’m currently working on
- 
- 👯 I’m looking to collaborate on
- 
- 🤝 I’m looking for help with
- 
- 🌱 I’m currently learning
- 
- 💬 Ask me about
- 
- ⚡ Fun fact
+### 🤝 **Let’s Team Up**  
+Projects that challenge the status quo and push creative limits.
 
+### 🛠️ **Where I Need Backup**  
+Making the impossible possible with cutting-edge tech.
 
+### 📚 **Currently Exploring**  
+How to hack the future.
 
+### 💬 **Hit Me Up About**  
+Anything that involves tech, creativity, or a good challenge.
+
+### 🎮 **Fun Fact**  
+Professional gamer, and have mastered the art of multitasking between coding and leveling up.
+
+<br>
 
 ## 🌐 Socials:
 
@@ -25,7 +29,9 @@
   <a href="https://x.com/Abhi_Hertz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="https://youtube.com/@@playinhertz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
- 
+
+<br>
+
 
 ## 💻 Tech Stack:
 

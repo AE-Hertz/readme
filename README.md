@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 🥷 About Me:
  <img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00">
 
 ### 🚀 **On My Radar**  

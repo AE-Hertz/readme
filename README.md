@@ -1,5 +1,5 @@
 ## 💫 About Me:
- <img align="right" src="https://github.com/user-attachments/assets/d123f961-bcea-40e7-8d61-251fa3584638">
+ <img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00">
 
 ### 🚀 **On My Radar**  
 Creating something that will change the game.
@@ -148,8 +148,6 @@ Rank 32/60K world-wide in GSSoC-ext 2024 <a href="https://gssoc.girlscript.tech/
 
 
 
-
-![3d5f0dfcde9ba5bc28d6aa99e16e9f1e](https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00)
 
 
 
